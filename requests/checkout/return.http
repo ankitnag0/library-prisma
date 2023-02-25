@@ -1,0 +1,8 @@
+POST http://localhost:3000/api/checkout/return
+Content-Type: application/json
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjQ5OWU2NDgzLTAyMzQtNDE3YS04Njc2LTFhZGJkYzE1NTE0OSIsImlhdCI6MTY3NzMxMjk2NCwiZXhwIjoxNjc3Mzk5MzY0fQ.Jt60VDfU9Gm_amUdLiM3jTsrA_xxvFUTltB_RaQ4r2s
+
+{
+    "bookId": "29180f56-593f-4d79-b304-ac94b0b36a92",
+    "memberId": "be63a839-ea41-4db3-b79a-3dbeb0922bc7"
+}

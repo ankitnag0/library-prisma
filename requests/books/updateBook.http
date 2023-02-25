@@ -1,0 +1,9 @@
+PUT http://localhost:3000/api/books/5235e28c-b46a-4999-aa0d-d2bd6ee92282
+Content-Type: application/json
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjQ5OWU2NDgzLTAyMzQtNDE3YS04Njc2LTFhZGJkYzE1NTE0OSIsImlhdCI6MTY3NzMxMjk2NCwiZXhwIjoxNjc3Mzk5MzY0fQ.Jt60VDfU9Gm_amUdLiM3jTsrA_xxvFUTltB_RaQ4r2s
+
+{
+    "title": "Atomic Habits",
+    "author": "James Clear",
+    "description": "A book about habit building. Updated"
+}

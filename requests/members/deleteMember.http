@@ -1,0 +1,2 @@
+DELETE http://localhost:3000/api/members/462ed0da-5d5d-40e2-a7ef-389d8262c256
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjQ5OWU2NDgzLTAyMzQtNDE3YS04Njc2LTFhZGJkYzE1NTE0OSIsImlhdCI6MTY3NzMxMjk2NCwiZXhwIjoxNjc3Mzk5MzY0fQ.Jt60VDfU9Gm_amUdLiM3jTsrA_xxvFUTltB_RaQ4r2s
